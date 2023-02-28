@@ -1,0 +1,2 @@
+Column F:     =[@Sale]-[@[Retail Price]]
+Column G:     =[@Profit]/[@[Retail Price]]
